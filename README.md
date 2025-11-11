@@ -4,6 +4,6 @@
 
 **Source data_1.xlsx**: source data of all figures.
 
-**Source data_2.zip**: atomic coordinates in Quantum chemical calculations.
+**Supplementary Data 1.zip**: atomic coordinates in Quantum chemical calculations.
 
 [![DOI](https://zenodo.org/badge/805197726.svg)](https://doi.org/10.5281/zenodo.17311086)
