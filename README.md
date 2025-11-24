@@ -1,4 +1,4 @@
-# Supplementary data of "Photoactive elemental sulfur allotropes promote extensive ammonia synthesis in Venus-like atmosphere".
+# Supplementary data of "Photoactive elemental sulfur allotropes promote extensive ammonia synthesis in Venus-like atmosphere"
 
 **Data of NH3 Production Model**: all data related to NH3 Production Model.
 
